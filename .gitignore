@@ -1,0 +1,11 @@
+/data
+/res
+/doc
+/dist
+/build
+*.pyc
+.DS_Store
+*.egg-info
+*.tmproj
+*.ipynb
+*.txt
